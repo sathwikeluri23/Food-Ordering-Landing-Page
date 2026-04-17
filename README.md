@@ -72,4 +72,4 @@ This project focuses on:
 * Practicing basic UI/UX layout patterns
 ---
 ## Author
-**Sat**
+**Eluri Sathwik**
