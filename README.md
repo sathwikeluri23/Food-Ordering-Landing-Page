@@ -14,7 +14,7 @@ The goal of this project is to showcase clean layout structuring, responsive des
 
 ---
 
-##Deployed-Link
+## Deployed-Link
 <a href="https://food-ordering-landing-page-opal.vercel.app/">Link</a>
 
 ---
